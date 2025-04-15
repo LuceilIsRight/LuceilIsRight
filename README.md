@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/228403b0-e552-4cdd-a072-a16c343a33e3" width="340">
+  <img src = "https://github.com/user-attachments/assets/b8fd132d-6e12-4c80-bf0e-dd96549356e9" width="340">
 </div>
 
 - 🔭 I’m currently working on A Machine Learning heliophysics project to help predict CMEs.
