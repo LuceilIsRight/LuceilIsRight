@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![cat (1)](https://github.com/user-attachments/assets/228403b0-e552-4cdd-a072-a16c343a33e3)
+![cat (1)](https://github.com/user-attachments/assets/228403b0-e552-4cdd-a072-a16c343a33e3 | width= 100)
 
 - 🔭 I’m currently working on A Machine Learning heliophysics project to help predict CMEs.
 - 🌱 I’m currently learning ML in Python and advanced CSS.
