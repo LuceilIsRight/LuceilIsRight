@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src = "(https://github.com/user-attachments/assets/7a6fb169-083e-4ff9-a19a-684ec0d0df3b)" width="340">
+  <img src = "https://github.com/user-attachments/assets/90b253fd-8865-4d89-9f26-5796ca0a6d0a" width="340">
 </div>
 
 - 🔭 I’m currently working on an ANN-based heliophysics project.
