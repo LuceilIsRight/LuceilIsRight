@@ -5,7 +5,7 @@
 </div>
 
 
-[![Param's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucielIsRight)](https://github.com/anuraghazra/github-readme-stats)
+[![Param's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceilIsRight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on an ANN-based heliophysics project.
