@@ -8,7 +8,7 @@
   
   ![Param's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceilIsRight&show_icons=true&theme=radical)
 
-  ![Param's Most Commonly Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuceilIsRight&layout=pie)]
+  ![Param's Most Commonly Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuceilIsRight&layout=pie&theme=radical)
   
 </div>
 
