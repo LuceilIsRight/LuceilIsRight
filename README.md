@@ -1,19 +1,56 @@
-## Hi there 👋
+##Hi, I'm Param 👋
 
-<div align="center">
-  <img src = "https://github.com/user-attachments/assets/ea141a49-b047-4c3f-8361-6e13c591fd18" width="350">
-</div>
+Physics · Scientific Computing · Python · Machine Learning
 
-<div align="center">
-  
-  ![Param's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuceilIsRight&show_icons=true&theme=radical)
+I'm a physics undergraduate interested in using computation to understand complex systems — from orbital dynamics and scientific simulations to data analysis and machine learning.
 
-  ![Param's Most Commonly Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuceilIsRight&layout=pie&theme=radical)
-  
-</div>
+I enjoy turning mathematical ideas and raw data into working code, useful visualisations, and reproducible computational experiments.
 
+🔬 What I Work On
 
-- 🔭 I’m currently working on an ANN-based heliophysics project.
-- 🌱 I’m currently learning ML in Python and advanced CSS.
-- 📫 How to reach me: https://luceilisright.github.io/MySpace
-- ⚡ Fun fact: I am a Physics Student.
+- Scientific computing: numerical methods, simulations, and computational physics.
+- Machine learning: model development, evaluation, and scientific data analysis.
+- Data analysis: Python workflows, statistical analysis, and visualisation.
+- Scientific visualisation: orbital trajectories, 3D animations, and computational models.
+
+🛠️ Tools & Technologies
+
+Languages: Python
+
+Scientific Python: NumPy, Matplotlib
+
+Scientific simulation: REBOUND
+
+Machine learning: Python-based ML workflows
+
+Currently improving: software testing, reproducible projects, Git, and building reliable tools for real-world use.
+
+🚀 Selected Projects
+
+"N-Body Orbital Dynamics" (https://github.com/LuceilIsRight/N-Body-Orbital-Dynamics)
+
+A Python project exploring orbital dynamics and the visualisation of gravitational systems using REBOUND and Matplotlib.
+
+"Stable-Galaxy" (https://github.com/LuceilIsRight/Stable-Galaxy)
+
+A collection of Python scripts that create animated, three-dimensional spiral-galaxy visualisations.
+
+More Projects
+
+Browse my "repositories" (https://github.com/LuceilIsRight?tab=repositories) for additional experiments and projects.
+
+🤝 What I'm Interested In
+
+I'm interested in collaborating on scientific Python, data analysis, visualisation, numerical modelling, and machine-learning projects.
+
+I'm also open to well-scoped Python automation and data-processing work.
+
+📫 Get in Touch
+
+- GitHub: "@LuceilIsRight" (https://github.com/LuceilIsRight)
+
+Have a computational problem that needs a practical solution? Feel free to reach out through GitHub.
+
+---
+
+Exploring the intersection of physics, computation, and intelligent systems — one project at a time.
