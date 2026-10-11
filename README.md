@@ -1,56 +1,78 @@
 ##Hi, I'm Param 👋
 
-Physics · Scientific Computing · Python · Machine Learning
+Physics | Scientific Computing | Python | Machine Learning
 
-I'm a physics undergraduate interested in using computation to understand complex systems — from orbital dynamics and scientific simulations to data analysis and machine learning.
+I'm a physics undergraduate interested in computational physics, scientific data analysis, and machine learning.
 
-I enjoy turning mathematical ideas and raw data into working code, useful visualisations, and reproducible computational experiments.
+I enjoy turning mathematical ideas and raw data into computational experiments, useful visualisations, and reproducible software.
 
-🔬 What I Work On
+""GitHub" (https://img.shields.io/badge/GitHub-LuceilIsRight-181717?style=flat&logo=github)" (https://github.com/LuceilIsRight)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+"Scientific Computing" (https://img.shields.io/badge/Scientific_Computing-Research-blue?style=flat)
+"Machine Learning" (https://img.shields.io/badge/Machine_Learning-Exploring-orange?style=flat)
 
-- Scientific computing: numerical methods, simulations, and computational physics.
-- Machine learning: model development, evaluation, and scientific data analysis.
-- Data analysis: Python workflows, statistical analysis, and visualisation.
-- Scientific visualisation: orbital trajectories, 3D animations, and computational models.
+---
 
-🛠️ Tools & Technologies
+🔬 Areas of Interest
 
-Languages: Python
+- Scientific computing: numerical modelling, computational physics, and simulation.
+- Machine learning: model development, evaluation, and scientific applications.
+- Data analysis: statistical analysis, data processing, and reproducible workflows.
+- Scientific visualisation: orbital dynamics, 3D visualisation, and computational graphics.
 
-Scientific Python: NumPy, Matplotlib
+🛠️ Technologies
 
-Scientific simulation: REBOUND
+Area| Tools
+Programming| Python
+Scientific computing| NumPy
+Visualisation| Matplotlib
+Orbital simulation| REBOUND
+Machine learning| Python-based ML workflows
 
-Machine learning: Python-based ML workflows
+The technologies listed here reflect my project work and current development. Individual repositories document their specific dependencies.
 
-Currently improving: software testing, reproducible projects, Git, and building reliable tools for real-world use.
+---
 
-🚀 Selected Projects
+🚀 Featured Projects
 
 "N-Body Orbital Dynamics" (https://github.com/LuceilIsRight/N-Body-Orbital-Dynamics)
 
-A Python project exploring orbital dynamics and the visualisation of gravitational systems using REBOUND and Matplotlib.
+A computational physics project exploring orbital dynamics through numerical simulation and visualisation.
+
+Focus: Python · REBOUND · Numerical modelling · Visualisation
+
+"Explore the repository →" (https://github.com/LuceilIsRight/N-Body-Orbital-Dynamics)
 
 "Stable-Galaxy" (https://github.com/LuceilIsRight/Stable-Galaxy)
 
-A collection of Python scripts that create animated, three-dimensional spiral-galaxy visualisations.
+A Python project for creating animated, three-dimensional spiral-galaxy visualisations.
+
+Focus: Python · NumPy · Matplotlib · Animation
+
+"Explore the repository →" (https://github.com/LuceilIsRight/Stable-Galaxy)
 
 More Projects
 
-Browse my "repositories" (https://github.com/LuceilIsRight?tab=repositories) for additional experiments and projects.
-
-🤝 What I'm Interested In
-
-I'm interested in collaborating on scientific Python, data analysis, visualisation, numerical modelling, and machine-learning projects.
-
-I'm also open to well-scoped Python automation and data-processing work.
-
-📫 Get in Touch
-
-- GitHub: "@LuceilIsRight" (https://github.com/LuceilIsRight)
-
-Have a computational problem that needs a practical solution? Feel free to reach out through GitHub.
+Browse my "public repositories" (https://github.com/LuceilIsRight?tab=repositories) for additional computational experiments and projects.
 
 ---
+
+🤝 Collaboration and Freelance Work
+
+I'm interested in well-scoped projects involving:
+
+- Python data processing and analysis
+- Scientific plotting and visualisation
+- Numerical simulations
+- Data-analysis automation
+- Machine-learning experiments and evaluation
+
+If you have a computational problem that fits these areas, feel free to contact me through GitHub.
+
+---
+
+📫 Contact
+
+- GitHub: "@LuceilIsRight" (https://github.com/LuceilIsRight)
 
 Exploring the intersection of physics, computation, and intelligent systems — one project at a time.
