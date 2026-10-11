@@ -6,11 +6,6 @@ I'm a physics undergraduate interested in computational physics, scientific data
 
 I enjoy turning mathematical ideas and raw data into computational experiments, useful visualisations, and reproducible software.
 
-""GitHub" (https://img.shields.io/badge/GitHub-LuceilIsRight-181717?style=flat&logo=github)" (https://github.com/LuceilIsRight)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-"Scientific Computing" (https://img.shields.io/badge/Scientific_Computing-Research-blue?style=flat)
-"Machine Learning" (https://img.shields.io/badge/Machine_Learning-Exploring-orange?style=flat)
-
 ---
 
 🔬 Areas of Interest
